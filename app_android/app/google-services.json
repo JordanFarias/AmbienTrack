@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "177065582845",
+    "firebase_url": "https://estacion-ambiental-5b4b1-default-rtdb.firebaseio.com",
+    "project_id": "estacion-ambiental-5b4b1",
+    "storage_bucket": "estacion-ambiental-5b4b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177065582845:android:45cd6d07bf8bc894789e94",
+        "android_client_info": {
+          "package_name": "com.example.monitoreoambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9anc_Uaei2iGVISoqBVZ9Y36O01sX5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

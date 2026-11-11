@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Hoja (medición ambiental) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M46,76 C46,50 62,32 84,32 C84,56 68,76 46,76 Z" />
+
+    <!-- Nervadura central -->
+    <path
+        android:pathData="M46,76 C55,62 64,49 74,41"
+        android:strokeColor="#0A0A0A"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Ondas de aire / calidad ambiental -->
+    <path
+        android:pathData="M22,60 C28,54 38,54 44,60"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M16,72 C23,66 35,66 42,72"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M22,84 C29,78 39,78 46,84"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+</vector>
